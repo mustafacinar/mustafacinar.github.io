@@ -1,3 +1,2 @@
 # mustafacinar.github.io
 
-Deneme
